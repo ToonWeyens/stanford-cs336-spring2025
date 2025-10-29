@@ -1,0 +1,15 @@
+[submodule "assignment1-basics"]
+	path = assignment1-basics
+	url = git@github.com:stanford-cs336/assignment1-basics.git
+[submodule "assignment2-systems"]
+	path = assignment2-systems
+	url = git@github.com:stanford-cs336/assignment2-systems.git
+[submodule "assignment3-scaling"]
+	path = assignment3-scaling
+	url = git@github.com:stanford-cs336/assignment3-scaling.git
+[submodule "assignment4-data"]
+	path = assignment4-data
+	url = git@github.com:stanford-cs336/assignment4-data.git
+[submodule "assignment5-alignment"]
+	path = assignment5-alignment
+	url = git@github.com:stanford-cs336/assignment5-alignment.git
