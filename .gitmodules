@@ -1,6 +1,6 @@
 [submodule "assignment1-basics"]
 	path = assignment1-basics
-	url = git@github.com:stanford-cs336/assignment1-basics.git
+	url = git@github.com:ToonWeyens/stanford-cs336-assignment1-basics.git
 [submodule "assignment2-systems"]
 	path = assignment2-systems
 	url = git@github.com:stanford-cs336/assignment2-systems.git

@@ -8,4 +8,3 @@
   - [assignment 1  preview](https://github.com/stanford-cs336/assignment1-basics/blob/main/cs336_spring2025_assignment1_basics.pdf)
   - [assignment 1 leaderboard](https://github.com/stanford-cs336/spring2025-assignment1-basics-leaderboard/tree/master)
 
-CURRENT STATUS: 0h27m - https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&index=1
